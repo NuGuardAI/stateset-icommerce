@@ -125,7 +125,7 @@
     ".claude/"
   ],
   "dependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.1.70",
+    "@anthropic-ai/claude-agent-sdk": "^0.2.39",
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@solana/spl-token": "^0.4.14",
     "@solana/web3.js": "^1.98.4",
