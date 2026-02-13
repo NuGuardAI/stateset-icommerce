@@ -138,7 +138,7 @@
     "@solana/web3.js": "^1.98.4",
     "@stateset/embedded": "^0.5.0",
     "chalk": "^5.3.0",
-    "commander": "^12.1.0",
+    "commander": "^14.0.3",
     "ethers": "^6.16.0",
     "ora": "^8.1.1",
     "yaml": "^2.3.4",
